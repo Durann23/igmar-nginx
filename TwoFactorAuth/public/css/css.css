@@ -1,0 +1,21 @@
+body{
+background-color:  #f2f2f2;
+}
+.container-central{
+    width:60%; 
+    height:fit-content; 
+    background-color: #fff; 
+    margin:20px
+}
+.container-imagen{
+    position: relative; 
+    overflow: hidden;
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.input-uppercase{
+    text-transform: uppercase;
+}
